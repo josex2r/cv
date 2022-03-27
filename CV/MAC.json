@@ -88,6 +88,17 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "B1 English level | British Council",
+        "startDate": "2014-10-01",
+        "finishDate": "2015-02-01",
+        "institution": {
+          "name": "U.N.E.D.",
+          "description": ""
+        }
       }
     ]
   },
