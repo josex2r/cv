@@ -448,6 +448,19 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "-",
+          "description": ""
+        },
+        "type": "achievement",
+        "publishingDate": "1950-04-01",
+        "tags": [
+          ""
+        ]
+      }
     ]
   },
   "knowledge": {
