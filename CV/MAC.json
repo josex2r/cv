@@ -1,0 +1,70 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Jose Luis",
+      "surnames": "Represa",
+      "title": "Software dev",
+      "description": "Constantly learning while searching for new challenges, tech lover and painter during freetime.",
+      "avatar": {
+        "alt": "IMG20211009150607.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/a0a7423f-cad7-4fb4-8423-1443f64131d0_img20211009150607.jpeg"
+      },
+      "location": {
+        "notes": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/josex2r/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/josex2r/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": " Free time painter",
+        "fact": "I've always liked to develop my artist skills. Currently I'm learning to paint miniatures."
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/josex2r/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
