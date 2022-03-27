@@ -147,7 +147,7 @@
             "finishDate": "2016-04-01",
             "challenges": [
               {
-                "description": "In this company I've worked as a web developer for BBVA.\n\nMy job was to design an implement a system to manage Gmail accounts to be able to read/transform the emails and redirect them to different internal departments, allowing to threat them as a job process instead of just emails."
+                "description": "In this company I've worked as a web developer for BBVA.\n\nMy job was to design an implement a system to manage Gmail accounts to be able to read/transform the emails and redirect them to different internal departments, allowing to threat them as a job process instead of just emails.\n\nOnce finished the previous project, I've enrolled to the mobile app's team, developing the front-end of the main BBVA mobile's app."
               }
             ],
             "competences": [
@@ -160,11 +160,31 @@
                 "type": "technology"
               },
               {
+                "name": "Ruby",
+                "type": "technology"
+              },
+              {
                 "name": "JavaScript",
                 "type": "technology"
               },
               {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
                 "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Gulp.JS",
+                "type": "technology"
+              },
+              {
+                "name": "Ember",
+                "type": "technology"
+              },
+              {
+                "name": "Cucumber",
                 "type": "technology"
               },
               {
