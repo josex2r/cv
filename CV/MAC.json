@@ -399,6 +399,41 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Carta Solidaria",
+          "description": "The purpose of this dashboard was to publish and download support messages for the COVID patients. All messages were anonymous so any hospital could download and print this messages to gave them to the COVID patients.\n\nTwitter: https://twitter.com/cartasolidaria\nRepository: https://github.com/adrigzr/happy-mail\n\nCurrently the domain is down because it was only active during 2020 and 2021.",
+          "URL": "https://github.com/adrigzr/happy-mail",
+          "image": {
+            "alt": "qz0vvokC_400x400.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/8e5add6c-5c9a-4602-b21c-7e713210ba40_qz0vvokc_400x400.jpeg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-03-01",
+            "finishDate": "2020-04-01",
+            "competences": [
+              {
+                "name": "Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "Netlify",
+                "type": "technology"
+              },
+              {
+                "name": "Ember",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
