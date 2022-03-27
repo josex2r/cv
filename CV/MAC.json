@@ -269,6 +269,57 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Fictizia",
+          "image": {
+            "alt": "3667354.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/9397facd-e278-42b4-a1b9-8ccf2101bf87_3667354.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Node.js Instructor",
+            "startDate": "2017-01-01",
+            "finishDate": "2012-03-01",
+            "challenges": [
+              {
+                "description": "As instructor I've created training about Node.js to people enrolled in the academy also gave custom training to private companies."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "Mocha",
+                "type": "technology"
+              },
+              {
+                "name": "travis",
+                "type": "technology"
+              },
+              {
+                "name": "Heroku",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
