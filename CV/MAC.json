@@ -178,6 +178,77 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "BEEVA",
+          "image": {
+            "alt": "download (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/b7ba13cb-db39-4722-88bc-a548c357e5ac_download-(1).png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Technical Architect",
+            "startDate": "2016-04-01",
+            "finishDate": "2017-01-01",
+            "challenges": [
+              {
+                "description": "En BEEVA continúo en el proyecto en el que participé anteriormente y sigo\ndesarrollando la aplicación móvil de BBVA (github.com/BBVAEngineering).\nComo miembro del equipo core mi labor consiste en realizar piezas\nconsumibles por los otros equipos que trabajan en la App y evolucionar la\narquitectura de la aplicación.\n\nPor otro lado he participado en una pequeña prueba de concepto a nivel\ninterno que consistía en crear una aplicación web embebida en un Chromium\nutilizando el framework Electron.\nPage 1 of 4\nLa aplicación consistía en un Front Ember.js que permitía introducir filtros\npara a través del Back Node.js desplegado en el Chromium, poder buscar\nempleados de prueba que cumplieses dichos requisitos"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Ruby",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Mocha",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Gulp.JS",
+                "type": "technology"
+              },
+              {
+                "name": "Ember",
+                "type": "technology"
+              },
+              {
+                "name": "Cucumber",
+                "type": "technology"
+              },
+              {
+                "name": "Electron",
+                "type": "technology"
+              },
+              {
+                "name": "Grunt",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
