@@ -120,6 +120,55 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Web Applications Development",
+        "startDate": "2011-09-01",
+        "finishDate": "2013-06-01",
+        "institution": {
+          "name": "IES María de Zayas",
+          "description": ""
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "SVN",
+            "type": "technology"
+          },
+          {
+            "name": "Unix",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
