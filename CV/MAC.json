@@ -35,6 +35,105 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Gobalo",
+          "image": {
+            "alt": "download.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/bb8e6504-8194-4232-8572-5a33df3125b7_download.png"
+          }
+        },
+        "roles": [
+          {
+            "name": " Web Developer",
+            "startDate": "2013-04-01",
+            "finishDate": "2014-11-01",
+            "challenges": [
+              {
+                "description": "As a web developer my daily work was to create and maintain a lot of web applications including shops, blogs, management apps, games and other stuff... While working as a developer, I've also had to maintain the local servers and config the company's hardware.\nI've worked for small clients like local shops and also for big techs or universities like Google or Nebrija University between others."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Gulp.JS",
+                "type": "technology"
+              },
+              {
+                "name": "Prestashop",
+                "type": "technology"
+              },
+              {
+                "name": "travis",
+                "type": "technology"
+              },
+              {
+                "name": "Heroku",
+                "type": "technology"
+              },
+              {
+                "name": "Grunt",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "studies": [
       {
