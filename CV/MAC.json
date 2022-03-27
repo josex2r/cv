@@ -40,36 +40,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
-        "name": "Mobile Web Specialist",
-        "startDate": "2018-02-01",
-        "finishDate": "2021-02-01",
-        "institution": {
-          "name": "Google Developers",
-          "description": "The Mobile Web Developer Certification is a performance-based exam that challenges mobile web developers to write code in response to real-world tasks. Based on extensive job task analyses, candidates earning this certification have shown that they have the skills expected of an advanced-level mobile web developer, and are capable of writing performant and responsive applications for the mobile web.",
-          "URL": "https://www.credential.net/55510377-c6b6-465b-a713-90b4743e501e",
-          "image": {
-            "alt": "mobile-web-specialist.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/5339e13e-0dcc-4bef-88dc-ed6ceb77ea3c_mobile-web-specialis.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
         "name": "JSNAD: OpenJS Node.js Application Developer",
         "startDate": "2020-11-01",
         "finishDate": "2023-11-01",
@@ -85,6 +55,36 @@
         "linkedCompetences": [
           {
             "name": "NodeJS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Mobile Web Specialist",
+        "startDate": "2018-02-01",
+        "finishDate": "2021-02-01",
+        "institution": {
+          "name": "Google Developers",
+          "description": "The Mobile Web Developer Certification is a performance-based exam that challenges mobile web developers to write code in response to real-world tasks. Based on extensive job task analyses, candidates earning this certification have shown that they have the skills expected of an advanced-level mobile web developer, and are capable of writing performant and responsive applications for the mobile web.",
+          "URL": "https://www.credential.net/55510377-c6b6-465b-a713-90b4743e501e",
+          "image": {
+            "alt": "36076137.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/bb74a13d-c48f-45a3-8f50-3ff7fb4eb6b1_36076137.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
             "type": "technology"
           }
         ]
