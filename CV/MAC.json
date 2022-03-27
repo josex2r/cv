@@ -320,6 +320,84 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "BBVA Next Technologies",
+          "image": {
+            "alt": "file.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/589a4e90-80d3-45a7-8031-89d5986c9ac8_file.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Technical Architect",
+            "startDate": "2018-03-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Webpack",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "Mocha",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "Ember",
+                "type": "technology"
+              },
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Cucumber",
+                "type": "technology"
+              },
+              {
+                "name": "Bamboo",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
