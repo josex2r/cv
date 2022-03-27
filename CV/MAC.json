@@ -33,20 +33,6 @@
         "topic": " Free time painter",
         "fact": "I've always liked to develop my artist skills. Currently I'm learning to paint miniatures."
       }
-    ],
-    "recommendations": [
-      {
-        "title": "-",
-        "type": "other",
-        "authors": [
-          {
-            "name": "",
-            "surnames": "",
-            "title": "Author"
-          }
-        ],
-        "summary": ""
-      }
     ]
   },
   "experience": {
