@@ -99,6 +99,27 @@
           "name": "U.N.E.D.",
           "description": ""
         }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Developement of Android & iOS native apps",
+        "startDate": "2013-10-01",
+        "finishDate": "2014-05-01",
+        "institution": {
+          "name": "CICE",
+          "description": ""
+        },
+        "linkedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "iOS",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
