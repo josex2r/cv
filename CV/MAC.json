@@ -131,6 +131,53 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Metrica Consulting S.L.",
+          "image": {
+            "alt": "metrica-consulting-squarelogo-1567608292752.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/caec2a20-35ee-4b7d-a43b-93657e25f0d0_metrica-consulting-s.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2014-10-01",
+            "finishDate": "2016-04-01",
+            "challenges": [
+              {
+                "description": "In this company I've worked as a web developer for BBVA.\n\nMy job was to design an implement a system to manage Gmail accounts to be able to read/transform the emails and redirect them to different internal departments, allowing to threat them as a job process instead of just emails."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Grunt",
+                "type": "technology"
+              },
+              {
+                "name": "Spring-Batch",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
