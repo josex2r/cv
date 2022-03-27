@@ -92,17 +92,6 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "B1 English level | British Council",
-        "startDate": "2014-10-01",
-        "finishDate": "2015-02-01",
-        "institution": {
-          "name": "U.N.E.D.",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
         "name": "Developement of Android & iOS native apps",
         "startDate": "2013-10-01",
         "finishDate": "2014-05-01",
@@ -169,6 +158,21 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "B1 English level | British Council",
+        "startDate": "2014-10-01",
+        "finishDate": "2015-02-01",
+        "institution": {
+          "name": "U.N.E.D.",
+          "description": "",
+          "image": {
+            "alt": "Screenshot 2022-03-27 at 13.08.04.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/a76d7d56-44cc-48ca-9a49-8e5a34ba3209_screenshot-2022-03-2.png"
+          }
+        }
       }
     ]
   },
