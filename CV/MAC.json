@@ -66,6 +66,28 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "JSNAD: OpenJS Node.js Application Developer",
+        "startDate": "2020-11-01",
+        "finishDate": "2023-11-01",
+        "institution": {
+          "name": "The Linux Foundation",
+          "description": "Earners of this designation demonstrated the skills and expertise to competently use Node.js to create applications of any kind, with a focus on knowledge of Node.js core APIs.",
+          "URL": "https://www.credly.com/badges/99fbadbe-7148-4f5d-a2cc-e9e91fc0c7ff/",
+          "image": {
+            "alt": "Training_Badges_Master_Node-AppDev.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/4aea965a-0ae7-4c7c-97f1-e9cad21951bf_training_badges_mast.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
