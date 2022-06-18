@@ -11,8 +11,8 @@
       "title": "Software dev",
       "description": "Constantly learning while searching for new challenges, tech lover and painter during freetime.",
       "avatar": {
-        "alt": "IMG20211009150607.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/a0a7423f-cad7-4fb4-8423-1443f64131d0_img20211009150607.jpeg"
+        "alt": "josex2r_2.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/06/18/0bf5ecb1-b58e-48e6-87bc-bcb8fcc8d971_josex2r_2.jpeg"
       },
       "location": {
         "notes": "Madrid"
@@ -20,12 +20,12 @@
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/josex2r/"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/josex2r/"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/josex2r/"
       }
     ],
     "interestingFacts": [
@@ -39,148 +39,23 @@
     "jobs": [
       {
         "organization": {
-          "name": "Gobalo",
+          "name": "BBVA Next Technologies",
           "image": {
-            "alt": "download.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/bb8e6504-8194-4232-8572-5a33df3125b7_download.png"
+            "alt": "file.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/589a4e90-80d3-45a7-8031-89d5986c9ac8_file.png"
           }
         },
         "roles": [
           {
-            "name": " Web Developer",
-            "startDate": "2013-04-01",
-            "finishDate": "2014-11-01",
-            "challenges": [
-              {
-                "description": "As a web developer my daily work was to create and maintain a lot of web applications including shops, blogs, management apps, games and other stuff... While working as a developer, I've also had to maintain the local servers and config the company's hardware.\nI've worked for small clients like local shops and also for big techs or universities like Google or Nebrija University between others."
-              }
-            ],
+            "name": "Technical Architect",
+            "startDate": "2018-03-01",
             "competences": [
               {
-                "name": "Python",
+                "name": "Bamboo",
                 "type": "technology"
               },
               {
-                "name": "Django",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "Google Cloud",
-                "type": "technology"
-              },
-              {
-                "name": "Bootstrap",
-                "type": "technology"
-              },
-              {
-                "name": "Android",
-                "type": "technology"
-              },
-              {
-                "name": "jQuery",
-                "type": "technology"
-              },
-              {
-                "name": "WordPress",
-                "type": "technology"
-              },
-              {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Gulp.JS",
-                "type": "technology"
-              },
-              {
-                "name": "Prestashop",
-                "type": "technology"
-              },
-              {
-                "name": "travis",
-                "type": "technology"
-              },
-              {
-                "name": "Heroku",
-                "type": "technology"
-              },
-              {
-                "name": "Grunt",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Metrica Consulting S.L.",
-          "image": {
-            "alt": "metrica-consulting-squarelogo-1567608292752.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/caec2a20-35ee-4b7d-a43b-93657e25f0d0_metrica-consulting-s.png"
-          }
-        },
-        "roles": [
-          {
-            "name": "Full Stack Developer",
-            "startDate": "2014-10-01",
-            "finishDate": "2016-04-01",
-            "challenges": [
-              {
-                "description": "In this company I've worked as a web developer for BBVA.\n\nMy job was to design an implement a system to manage Gmail accounts to be able to read/transform the emails and redirect them to different internal departments, allowing to threat them as a job process instead of just emails.\n\nOnce finished the previous project, I've enrolled to the mobile app's team, developing the front-end of the main BBVA mobile's app."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Spring",
-                "type": "technology"
-              },
-              {
-                "name": "Ruby",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "Spring Boot",
-                "type": "technology"
-              },
-              {
-                "name": "Gulp.JS",
-                "type": "technology"
-              },
-              {
-                "name": "Ember",
+                "name": "Bash",
                 "type": "technology"
               },
               {
@@ -188,38 +63,15 @@
                 "type": "technology"
               },
               {
-                "name": "Grunt",
+                "name": "Ember",
                 "type": "technology"
               },
               {
-                "name": "Spring-Batch",
+                "name": "Git",
                 "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "BEEVA",
-          "image": {
-            "alt": "download (1).png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/b7ba13cb-db39-4722-88bc-a548c357e5ac_download-(1).png"
-          }
-        },
-        "roles": [
-          {
-            "name": "Technical Architect",
-            "startDate": "2016-04-01",
-            "finishDate": "2018-03-01",
-            "challenges": [
+              },
               {
-                "description": "In BEEVA I've continued developing the mobile BBVA's app also developing internal tools to provide a better experience to developers and other member of the team."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Ruby",
+                "name": "Github",
                 "type": "technology"
               },
               {
@@ -227,15 +79,7 @@
                 "type": "technology"
               },
               {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
+                "name": "Jest",
                 "type": "technology"
               },
               {
@@ -243,27 +87,23 @@
                 "type": "technology"
               },
               {
-                "name": "Git",
+                "name": "NextJS",
                 "type": "technology"
               },
               {
-                "name": "Gulp.JS",
+                "name": "NodeJS",
                 "type": "technology"
               },
               {
-                "name": "Ember",
+                "name": "React",
                 "type": "technology"
               },
               {
-                "name": "Cucumber",
+                "name": "SQL",
                 "type": "technology"
               },
               {
-                "name": "Electron",
-                "type": "technology"
-              },
-              {
-                "name": "Grunt",
+                "name": "Webpack",
                 "type": "technology"
               }
             ]
@@ -290,14 +130,6 @@
             ],
             "competences": [
               {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
                 "name": "Express",
                 "type": "technology"
               },
@@ -306,15 +138,23 @@
                 "type": "technology"
               },
               {
+                "name": "Heroku",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
                 "name": "Mocha",
                 "type": "technology"
               },
               {
-                "name": "travis",
+                "name": "NodeJS",
                 "type": "technology"
               },
               {
-                "name": "Heroku",
+                "name": "travis",
                 "type": "technology"
               }
             ]
@@ -323,22 +163,114 @@
       },
       {
         "organization": {
-          "name": "BBVA Next Technologies",
+          "name": "BEEVA",
           "image": {
-            "alt": "file.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/589a4e90-80d3-45a7-8031-89d5986c9ac8_file.png"
+            "alt": "download (1).png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/b7ba13cb-db39-4722-88bc-a548c357e5ac_download-(1).png"
           }
         },
         "roles": [
           {
             "name": "Technical Architect",
-            "startDate": "2018-03-01",
+            "startDate": "2016-04-01",
+            "finishDate": "2018-03-01",
             "challenges": [
               {
-                "description": ""
+                "description": "In BEEVA I've continued developing the mobile BBVA's app also developing internal tools to provide a better experience to developers and other member of the team."
               }
             ],
             "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Cucumber",
+                "type": "technology"
+              },
+              {
+                "name": "Electron",
+                "type": "technology"
+              },
+              {
+                "name": "Ember",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Grunt",
+                "type": "technology"
+              },
+              {
+                "name": "Gulp.JS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Mocha",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "Ruby",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Metrica Consulting S.L.",
+          "image": {
+            "alt": "metrica-consulting-squarelogo-1567608292752.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/caec2a20-35ee-4b7d-a43b-93657e25f0d0_metrica-consulting-s.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2014-10-01",
+            "finishDate": "2016-04-01",
+            "challenges": [
+              {
+                "description": "In this company I've worked as a web developer for BBVA.\n\nMy job was to design an implement a system to manage Gmail accounts to be able to read/transform the emails and redirect them to different internal departments, allowing to threat them as a job process instead of just emails.\n\nOnce finished the previous project, I've enrolled to the mobile app's team, developing the front-end of the main BBVA mobile's app."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Cucumber",
+                "type": "technology"
+              },
+              {
+                "name": "Ember",
+                "type": "technology"
+              },
+              {
+                "name": "Grunt",
+                "type": "technology"
+              },
+              {
+                "name": "Gulp.JS",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
               {
                 "name": "JavaScript",
                 "type": "technology"
@@ -348,23 +280,62 @@
                 "type": "technology"
               },
               {
-                "name": "React",
+                "name": "Ruby",
                 "type": "technology"
               },
               {
-                "name": "Webpack",
+                "name": "Spring",
                 "type": "technology"
               },
               {
-                "name": "SQL",
+                "name": "Spring Boot",
                 "type": "technology"
               },
               {
-                "name": "NextJS",
+                "name": "Spring-Batch",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Gobalo",
+          "image": {
+            "alt": "download.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/bb8e6504-8194-4232-8572-5a33df3125b7_download.png"
+          }
+        },
+        "roles": [
+          {
+            "name": " Web Developer",
+            "startDate": "2013-04-01",
+            "finishDate": "2014-11-01",
+            "challenges": [
+              {
+                "description": "As a web developer my daily work was to create and maintain a lot of web applications including shops, blogs, management apps, games and other stuff... While working as a developer, I've also had to maintain the local servers and config the company's hardware.\nI've worked for small clients like local shops and also for big techs or universities like Google or Nebrija University between others."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Android",
                 "type": "technology"
               },
               {
-                "name": "Mocha",
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Django",
                 "type": "technology"
               },
               {
@@ -372,27 +343,51 @@
                 "type": "technology"
               },
               {
-                "name": "Jest",
+                "name": "Google Cloud",
                 "type": "technology"
               },
               {
-                "name": "Github",
+                "name": "Grunt",
                 "type": "technology"
               },
               {
-                "name": "Ember",
+                "name": "Gulp.JS",
                 "type": "technology"
               },
               {
-                "name": "Bash",
+                "name": "HTML",
                 "type": "technology"
               },
               {
-                "name": "Cucumber",
+                "name": "Heroku",
                 "type": "technology"
               },
               {
-                "name": "Bamboo",
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Prestashop",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              },
+              {
+                "name": "travis",
                 "type": "technology"
               }
             ]
@@ -419,15 +414,15 @@
             "finishDate": "2020-04-01",
             "competences": [
               {
+                "name": "Ember",
+                "type": "technology"
+              },
+              {
                 "name": "Firebase",
                 "type": "technology"
               },
               {
                 "name": "Netlify",
-                "type": "technology"
-              },
-              {
-                "name": "Ember",
                 "type": "technology"
               }
             ]
@@ -437,6 +432,94 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mocha",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ember",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vim",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "travis",
+          "type": "technology"
+        }
+      }
+    ],
     "studies": [
       {
         "studyType": "certification",
@@ -477,18 +560,32 @@
         },
         "linkedCompetences": [
           {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
             "name": "CSS",
             "type": "technology"
           },
           {
             "name": "HTML",
             "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "B1 English level | British Council",
+        "startDate": "2014-10-01",
+        "finishDate": "2015-02-01",
+        "institution": {
+          "name": "U.N.E.D.",
+          "image": {
+            "alt": "Screenshot 2022-03-27 at 13.08.04.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/a76d7d56-44cc-48ca-9a49-8e5a34ba3209_screenshot-2022-03-2.png"
+          }
+        }
       },
       {
         "studyType": "unaccredited",
@@ -497,8 +594,7 @@
         "startDate": "2013-10-01",
         "finishDate": "2014-05-01",
         "institution": {
-          "name": "CICE",
-          "description": ""
+          "name": "CICE"
         },
         "linkedCompetences": [
           {
@@ -518,24 +614,15 @@
         "startDate": "2011-09-01",
         "finishDate": "2013-06-01",
         "institution": {
-          "name": "IES María de Zayas",
-          "description": ""
+          "name": "IES María de Zayas"
         },
         "linkedCompetences": [
           {
-            "name": "JavaScript",
+            "name": "CSS",
             "type": "technology"
           },
           {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "SQL",
-            "type": "technology"
-          },
-          {
-            "name": "PHP",
+            "name": "Git",
             "type": "technology"
           },
           {
@@ -543,11 +630,19 @@
             "type": "technology"
           },
           {
-            "name": "CSS",
+            "name": "JAVA",
             "type": "technology"
           },
           {
-            "name": "Git",
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
             "type": "technology"
           },
           {
@@ -559,21 +654,6 @@
             "type": "technology"
           }
         ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "B1 English level | British Council",
-        "startDate": "2014-10-01",
-        "finishDate": "2015-02-01",
-        "institution": {
-          "name": "U.N.E.D.",
-          "description": "",
-          "image": {
-            "alt": "Screenshot 2022-03-27 at 13.08.04.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/27/a76d7d56-44cc-48ca-9a49-8e5a34ba3209_screenshot-2022-03-2.png"
-          }
-        }
       }
     ]
   },
@@ -589,7 +669,7 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "TypeScript",
+          "name": "JavaScript",
           "type": "technology"
         },
         {
@@ -597,7 +677,7 @@
           "type": "technology"
         },
         {
-          "name": "JavaScript",
+          "name": "TypeScript",
           "type": "technology"
         }
       ],
